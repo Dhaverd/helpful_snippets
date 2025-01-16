@@ -1,5 +1,5 @@
 # Find all tables whose foreign key refers to the table/column
-[SQL File](/sql/all_foreign_keys_to_table_or_column.sql)
+[SQL File](./src/branch/master/MySQL/sql/all_foreign_keys_to_table_or_column.sql)
 
 ## By table
 
