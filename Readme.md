@@ -4,6 +4,8 @@ This is a repository with useful snippets of various kinds of code
 
 ## Structure
 
+- [Git](./Git/)
+- - [stash](./Git/stash.md)
 - [Linux](./Linux/)
 - - [certbot_nginx](./Linux/certbot_nginx.md)
 - [MySQL](./MySQL/)
