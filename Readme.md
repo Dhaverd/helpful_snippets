@@ -9,6 +9,7 @@ This is a repository with useful snippets of various kinds of code
 - - [common](./src/branch/master/Git/common.md)
 - [Linux](./src/branch/master/Linux/)
 - - [certbot_nginx](./src/branch/master/Linux/certbot_nginx.md)
+- - [processes](./src/branch/master/Linux/processes.md)
 - [MySQL](./src/branch/master/MySQL)
 - - [all_foreign_keys_to_table_or_column](./src/branch/master/MySQL/all_foreign_keys_to_table_or_column.md)
 - - [identify_lock](./src/branch/master/MySQL/identify_lock.md)
