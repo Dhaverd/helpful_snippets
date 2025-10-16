@@ -7,6 +7,8 @@ This is a repository with useful snippets of various kinds of code
 - [Git](./src/branch/master/Git/)
 - - [stash](./src/branch/master/Git/stash.md)
 - - [common](./src/branch/master/Git/common.md)
+- [Jujutsu](./src/branch/master/Jujutsu/)
+- - [aliases](./src/branch/master/Jujutsu/aliases.md)
 - [Linux](./src/branch/master/Linux/)
 - - [certbot_nginx](./src/branch/master/Linux/certbot_nginx.md)
 - - [processes](./src/branch/master/Linux/processes.md)
