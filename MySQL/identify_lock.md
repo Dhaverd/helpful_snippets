@@ -2,13 +2,13 @@
 
 ## Method 1
 
-```
+```SQL
 SHOW open tables WHERE In_use > 0;
 ```
 
 ## Method 2
 
-```
+```SQL
 SELECT
     OBJECT_SCHEMA, 
     OBJECT_NAME, 
@@ -24,6 +24,6 @@ GROUP BY
 
 ## Process list
 
-```
+```SQL
 SHOW PROCESSLIST;
 ```

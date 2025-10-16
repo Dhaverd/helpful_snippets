@@ -2,26 +2,26 @@
 
 ## Find process occupying port
 
-```
+```bash
 ss -lptn 'sport = :5173'
 ```
 
 ### Output example:
 
-```
+```bash
 State                 Recv-Q                Send-Q                               Local Address:Port                                 Peer Address:Port                Process                                          
 LISTEN                0                     511                                          [::1]:5173                                         [::]:*                    users:(("node",pid=29634,fd=32))
 ```
 
 ## Kill process
 
-```
+```bash
 sudo kill -[signal] [PID]
 ```
 
 ### Example:
 
-```
+```bash
 sudo kill -9 29634
 ```
 
